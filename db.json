@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Ragnard",
+      "image": "https://pbs.twimg.com/profile_images/705080045312872448/eSejtk9l_400x400.jpg",
+      "likes": 7,
+      "id": 9
     }
   ]
 }
